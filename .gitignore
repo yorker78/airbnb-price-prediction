@@ -1,0 +1,7 @@
+data/*.gdb
+data/nypd_complaint.csv
+data/nypd_complaint_filtered.csv
+venv/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
